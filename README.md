@@ -1,3 +1,6 @@
+# Meu Lab de Firebase
+
+
 # Firebase Codelab: FriendlyChat
 
 This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
